@@ -5,6 +5,5 @@ def show_greeting():
 
 show_greeting()    
 
-
 if __name__ == '__main__':
     main()
