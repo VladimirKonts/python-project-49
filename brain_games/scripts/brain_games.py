@@ -7,9 +7,13 @@ def show_greeting():
     text = 'Welcome to the Brain Games!'
     print(text)
 
-show_greeting()
+def main():
+    show_greeting()
 
-welcome_user()
+    welcome_user()    
 
 if __name__ == '__main__':
+
     main()
+    
+    
