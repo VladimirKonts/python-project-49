@@ -1,4 +1,4 @@
-from prompt_toolkit import prompt
+from brain_games.scripts.prompt_toolkit import prompt
 
 def welcome_user():
 
