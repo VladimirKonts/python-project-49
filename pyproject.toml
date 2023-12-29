@@ -18,3 +18,5 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
+[tool.poetry.dev-dependencies]
+flake8 = "*"

@@ -1,8 +1,9 @@
-from brain_games.scripts.prompt_toolkit import prompt
+#from brain_games.scripts.prompt
+import prompt
 
 def welcome_user():
 
-    name = prompt('May I have your name? ')
+    name = prompt.string('May I have your name? ')
     print('Hello,', name)
 
 def main():
