@@ -1,4 +1,3 @@
 .venv
-dist
 .idea
 brain-games/__pycache__
